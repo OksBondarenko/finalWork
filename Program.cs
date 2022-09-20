@@ -40,7 +40,9 @@ string[] CreateArray(string[] array, int leng)
 void ShowArray(string[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
+    {
         Console.WriteLine(arr[i] + " ");
+    }
 }
 
 string[] arrayString = {"abc", "de", "fghj", "klm", "noprs", "t"};
