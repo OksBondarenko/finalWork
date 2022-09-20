@@ -1,0 +1,15 @@
+D:\git\dz_Final\finalWork\bin\Debug\net6.0\finalWork.exe
+D:\git\dz_Final\finalWork\bin\Debug\net6.0\finalWork.deps.json
+D:\git\dz_Final\finalWork\bin\Debug\net6.0\finalWork.runtimeconfig.json
+D:\git\dz_Final\finalWork\bin\Debug\net6.0\finalWork.dll
+D:\git\dz_Final\finalWork\bin\Debug\net6.0\finalWork.pdb
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.csproj.AssemblyReference.cache
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.AssemblyInfoInputs.cache
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.AssemblyInfo.cs
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.csproj.CoreCompileInputs.cache
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.dll
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\refint\finalWork.dll
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.pdb
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\finalWork.genruntimeconfig.cache
+D:\git\dz_Final\finalWork\obj\Debug\net6.0\ref\finalWork.dll
